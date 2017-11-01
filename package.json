@@ -1,0 +1,8 @@
+{
+  "name": "sparkle-js",
+  "version": "0.1.0",
+  "description": "Sparkle takes the nightmare out of browser testing.",
+  "repository": "https://github.com/geekytime/sparkle.git",
+  "author": "Chris Jaynes <chris@jaynes.me>",
+  "license": "MIT"
+}
